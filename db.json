@@ -4,24 +4,24 @@
       "id": "1",
       "Title": "Chester",
       "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650577/Adopci%C3%B3n/Card_euo9vf.jpg",
-      "Year": "1 año",
+      "Year": "6 meses",
       "Raza": "Golden retriever",
       "Sexo": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650586/Adopci%C3%B3n/macho_icon_osfwhx.png",
-      "Description": "Chester es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+      "Description": "Chester, un dulce Golden Retriever, proviene de una línea de campeones. Criado con amor, busca un nuevo hogar debido a cambios en la vida de sus dueños. Está ansioso por compartir su alegría y afecto en un nuevo hogar."
     },
     {
       "id": "2",
       "Title": "Papi",
       "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650572/Adopci%C3%B3n/Card_1_mow04l.jpg",
-      "Year": "1 año",
+      "Year": "2 años",
       "Raza": "Chihuahua",
       "Sexo": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650586/Adopci%C3%B3n/macho_icon_osfwhx.png",
-      "Description": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+      "Description": "Papi, el encantador Chihuahua de 2 años, fue rescatado de un entorno difícil y ahora busca un hogar donde pueda ser el centro de atención. Su pequeño tamaño alberga un corazón valiente y ansía la compañía humana."
     },
     {
       "id": "3",
       "Title": "Rocky",
-      "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650577/Adopci%C3%B3n/Card_euo9vf.jpg",
+      "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650572/Adopci%C3%B3n/Card_2_xeczcy.jpg",
       "Year": "3 meses",
       "Raza": "Rottweiler",
       "Sexo": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650586/Adopci%C3%B3n/macho_icon_osfwhx.png",
@@ -34,7 +34,7 @@
       "Year": "1 año",
       "Raza": "Bichón frisé",
       "Sexo": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650586/Adopci%C3%B3n/macho_icon_osfwhx.png",
-      "Description": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+      "Description": "Pelusa, el adorable Bichón Frisé de 1 año, busca un nuevo hogar lleno de amor y alegría debido a cambios en la situación familiar. Con su pelaje esponjoso y su personalidad juguetona, está listo para iluminar la vida de una nueva familia."
     },
     {
       "id": "5",
@@ -43,54 +43,45 @@
       "Year": "1 año",
       "Raza": "Chihuahua",
       "Sexo": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650586/Adopci%C3%B3n/macho_icon_osfwhx.png",
-      "Description": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
-    },
-    {
-      "id": "6",
-      "Title": "Chester",
-      "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650577/Adopci%C3%B3n/Card_euo9vf.jpg",
-      "Year": "1 año",
-      "Raza": "Golden retriever",
-      "Sexo": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650586/Adopci%C3%B3n/macho_icon_osfwhx.png",
-      "Description": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+      "Description": "Charlie, el juguetón Chihuahua de 8 meses, fue rescatado junto a Papi y está listo para explorar su entorno y recibir cariño en su nuevo hogar. A pesar de sus humildes comienzos, Charlie es un pequeño tesoro lleno de energía."
     }
   ],
   "img-gaticos": [
     {
       "id": "1",
       "Title": "Matilde",
-      "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650577/Adopci%C3%B3n/Card_euo9vf.jpg",
-      "Year": "1 año",
-      "Raza": "Golden retriever",
+      "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650531/Adopci%C3%B3n/Card_5_qzjcwk.jpg",
+      "Year": "6 meses",
+      "Raza": "British Shorthair",
       "Sexo": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650586/Adopci%C3%B3n/macho_icon_osfwhx.png",
-      "Description": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+      "Description": "Matilde es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita."
     },
     {
       "id": "2",
       "Title": "Pelusa",
-      "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650577/Adopci%C3%B3n/Card_euo9vf.jpg",
-      "Year": "1 año",
-      "Raza": "Golden retriever",
+      "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650530/Adopci%C3%B3n/Card_mksicw.jpg",
+      "Year": "2 años",
+      "Raza": "Birmano",
       "Sexo": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650586/Adopci%C3%B3n/macho_icon_osfwhx.png",
-      "Description": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+      "Description": "Pelusa, la encantadora Birmana de 2 años, fue adoptada de un refugio y ahora busca un hogar donde pueda compartir su afecto. Su pelaje sedoso y sus ojos azules expresivos la hacen única. Pelusa está lista para llenar de amor la vida de una nueva familia."
     },
     {
       "id": "3",
       "Title": "Kity",
-      "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650577/Adopci%C3%B3n/Card_euo9vf.jpg",
+      "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650529/Adopci%C3%B3n/Card_1_ylqtmf.jpg",
       "Year": "1 año",
-      "Raza": "Golden retriever",
+      "Raza": "Bombay",
       "Sexo": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650586/Adopci%C3%B3n/macho_icon_osfwhx.png",
-      "Description": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+      "Description": "Kity, la juguetona Bombay de 1 año, fue rescatada de un entorno difícil y busca un hogar lleno de diversión y cariño. Su pelaje negro como la noche y sus ojos brillantes destacan su personalidad enérgica. Kity espera encontrar a alguien que comparta su amor por el juego."
     },
     {
       "id": "4",
       "Title": "Bombón",
-      "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650577/Adopci%C3%B3n/Card_euo9vf.jpg",
+      "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650529/Adopci%C3%B3n/Card_2_ci0ohc.jpg",
       "Year": "1 año",
-      "Raza": "Golden retriever",
+      "Raza": "Gato americano",
       "Sexo": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650586/Adopci%C3%B3n/macho_icon_osfwhx.png",
-      "Description": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+      "Description": "Kity, la juguetona Bombay de 1 año, fue rescatada de un entorno difícil y busca un hogar lleno de diversión y cariño. Su pelaje negro como la noche y sus ojos brillantes destacan su personalidad enérgica. Kity espera encontrar a alguien que comparta su amor por el juego."
     }
   ]
 }
